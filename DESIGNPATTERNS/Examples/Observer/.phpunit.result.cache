@@ -1,1 +1,1 @@
-{"version":1,"defects":{"AppTest::testAddUser":7},"times":{"AppTest::testAddUser":0.004}}
+{"version":1,"defects":{"AppTest::testAddUser":8,"UserTest::testAddUser":8,"UserTest::testCountUser":8},"times":{"AppTest::testAddUser":0.008,"UserTest::testAddUser":0.005,"UserTest::testCountUser":0.001}}
