@@ -1,0 +1,20 @@
+{
+    "name": "observer/observer",
+    "autoload": {
+        "psr-4": {
+            "Observer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Antoine07",
+            "email": "antoine.lucsko@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10.2"
+    },
+    "scripts": {
+        "tests" : "./vendor/bin/phpunit"
+    }
+}
